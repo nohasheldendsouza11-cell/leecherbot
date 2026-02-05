@@ -1,0 +1,8 @@
+aiogram>=3.0.0
+qbittorrent-api
+mega.py
+terabox-downloader
+requests
+aiohttp
+python-dotenv
+gdown
