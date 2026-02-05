@@ -6,3 +6,4 @@ requests
 aiohttp
 python-dotenv
 gdown
+flask
